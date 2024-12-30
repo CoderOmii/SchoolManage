@@ -1,1 +1,1 @@
-https://coderomii.github.io/SchoolManage/
+(https://coderomii.github.io/SchoolManagementSystem/)
