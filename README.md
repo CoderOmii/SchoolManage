@@ -1,1 +1,1 @@
-# SchoolManage
+https://coderomii.github.io/SchoolManage/
